@@ -25,7 +25,7 @@ void loop() {
   lcd.setCursor(0,1);
   lcd.print(sensorDS18B20.getTempCByIndex(0));
   lcd.display();
-  delay(500);
+  delay(1000);
   //Get the values
   temp = (sensorDS18B20.getTempCByIndex(0));
   acid = random(0,6);
