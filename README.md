@@ -1,4 +1,5 @@
-# Smart Growing Microcontroller realtime sensor data serialization
+# Smart Growing Microcontroller 
+### Realtime sensor data serialization
 
 
 ## Arduino circuit
